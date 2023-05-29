@@ -1,2 +1,5 @@
-this is my first file in myninjaproject
-adding one line to the file
+class main{  
+    public static void main(String args[]){  
+     System.out.println("Hello Java");  
+    }  
+}  
